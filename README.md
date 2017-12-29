@@ -9,7 +9,7 @@ status bool default 'false',
 constraint pk_host primary key (ips)
 );
 
-Wildfly queue configuration:
+- Wildfly queue configuration:
 Name: IpAddressQueue
 JNDI Names: java:/jms/queue/IpAddressQueue
 
