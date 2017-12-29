@@ -1,0 +1,1 @@
+include "dm110-ear", "dm110-war", "dm110-api", "dm110-core", "dm110-ejb", "dm110-ejb-client"
